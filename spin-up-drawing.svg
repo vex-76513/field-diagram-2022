@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="200in"
-   height="200in"
-   viewBox="0 0 5080 5080"
+   width="201.933in"
+   height="159.765in"
+   viewBox="0 0 5129.0982 4058.031"
    version="1.1"
    id="svg5"
    sodipodi:docname="spin-up-drawing.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -29,22 +29,24 @@
      showgrid="false"
      units="in"
      scale-x="25.3"
-     inkscape:zoom="0.027712447"
-     inkscape:cx="1010.3763"
-     inkscape:cy="12341.025"
+     inkscape:zoom="0.15676527"
+     inkscape:cx="9552.4983"
+     inkscape:cy="1396.9931"
      inkscape:window-width="1884"
      inkscape:window-height="1049"
-     inkscape:window-x="36"
-     inkscape:window-y="0"
+     inkscape:window-x="1116"
+     inkscape:window-y="840"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer4"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <rect
-       x="17672.251"
-       y="9665.4669"
-       width="7100.379"
-       height="917.89034"
+       x="17672.252"
+       y="9665.4668"
+       width="7100.3789"
+       height="917.89032"
        id="rect72173" />
     <linearGradient
        id="linearGradient1695"
@@ -57,15 +59,15 @@
     <marker
        style="overflow:visible"
        id="Arrow1Lstart"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lstart"
        inkscape:isstock="true">
       <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path882" />
     </marker>
     <rect
@@ -80,7 +82,8 @@
      id="layer3"
      inkscape:label="img"
      sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     transform="translate(5.0113498,-403.42682)">
     <image
        width="5297.3389"
        height="5709.2139"
@@ -95,7 +98,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Outside Field"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(17.71135,-390.72682)">
     <path
        style="fill:none;stroke:#004488;stroke-width:50.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 5097.2455,898.96629 h -548.97 V 4055.7066 h 550.4117"
@@ -108,10 +112,11 @@
        style="font-size:672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect72173);stroke-width:0.96;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:label="b Match+preload text"><tspan
          x="17672.252"
-         y="10260.029"
-         id="tspan1940"><tspan
+         y="10276.903"
+         id="tspan474"><tspan
+           dx="0 0 0 0 0.00012207031 0 -0.00012207031 0.00012207031 -0.00018310547 0.00018310547 -0.00018310547 0.00018310547 -0.00018310547 -0.00012207031 0.00042724609 -0.00012207031 -0.00012207031 -0.00012207031 0.00012207031"
            style="fill:#004488"
-           id="tspan1938">7 Match + 4 Preload</tspan></tspan></text>
+           id="tspan472">7 Match + 4 Preload</tspan></tspan></text>
     <path
        style="fill:none;stroke:#ca0000;stroke-width:50.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -3.5696498,4088.6625 H 545.40035 V 931.92223 H -5.0113498"
@@ -124,10 +129,11 @@
        style="font-size:672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect72173-0);stroke-width:0.96;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:label="r Match+preload text"><tspan
          x="17672.252"
-         y="10260.029"
-         id="tspan1944"><tspan
+         y="10276.903"
+         id="tspan478"><tspan
+           dx="0 0 0 0 0.00012207031 0 -0.00012207031 0.00012207031 -0.00018310547 0.00018310547 -0.00018310547 0.00018310547 -0.00018310547 -0.00012207031 0.00042724609 -0.00012207031 -0.00012207031 -0.00012207031 0.00012207031"
            style="fill:#ca0000"
-           id="tspan1942">7 Match + 4 Preload</tspan></tspan></text>
+           id="tspan476">7 Match + 4 Preload</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:101.6px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -155,7 +161,7 @@
      inkscape:label="Field Elements"
      id="layer1"
      inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     transform="translate(17.71135,-390.72682)">
     <rect
        style="display:inline;fill:none;fill-opacity:0.709649;stroke:#1a1a1c;stroke-width:50.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect858"
@@ -777,7 +783,8 @@
   <g
      id="layer2"
      inkscape:label="Preset disks (see manual page a-5 for reference)"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(17.71135,-390.72682)">
     <g
        id="g67612"
        inkscape:label="11. outside blue low goal">
