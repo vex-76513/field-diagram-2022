@@ -29,15 +29,15 @@
      showgrid="false"
      units="in"
      scale-x="25.3"
-     inkscape:zoom="0.15676527"
-     inkscape:cx="9552.4983"
-     inkscape:cy="1396.9931"
+     inkscape:zoom="0.053293666"
+     inkscape:cx="6970.8097"
+     inkscape:cy="7674.458"
      inkscape:window-width="1884"
      inkscape:window-height="1049"
-     inkscape:window-x="1116"
-     inkscape:window-y="840"
+     inkscape:window-x="36"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1" />
   <defs
@@ -107,16 +107,16 @@
        inkscape:label="Alliance Station Boundary b" />
     <text
        xml:space="preserve"
-       transform="matrix(0,-0.26458333,0.26458333,0,2229.19,8055.9302)"
+       transform="matrix(0,-0.26458333,0.26458333,0,2158.3592,7917.2283)"
        id="text72171"
-       style="font-size:672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect72173);stroke-width:0.96;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-size:672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect72173);display:inline;stroke-width:0.96;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:label="b Match+preload text"><tspan
          x="17672.252"
          y="10276.903"
-         id="tspan474"><tspan
+         id="tspan5411"><tspan
            dx="0 0 0 0 0.00012207031 0 -0.00012207031 0.00012207031 -0.00018310547 0.00018310547 -0.00018310547 0.00018310547 -0.00018310547 -0.00012207031 0.00042724609 -0.00012207031 -0.00012207031 -0.00012207031 0.00012207031"
            style="fill:#004488"
-           id="tspan472">7 Match + 4 Preload</tspan></tspan></text>
+           id="tspan5409">7 Match + 4 Preload</tspan></tspan></text>
     <path
        style="fill:none;stroke:#ca0000;stroke-width:50.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -3.5696498,4088.6625 H 545.40035 V 931.92223 H -5.0113498"
@@ -124,16 +124,16 @@
        inkscape:label="Alliance Station Boundary b" />
     <text
        xml:space="preserve"
-       transform="matrix(0,0.26458333,-0.26458333,0,2862.0368,-3153.8283)"
+       transform="matrix(0,0.26458333,-0.26458333,0,2935.3167,-3077.7437)"
        id="text72171-8"
-       style="font-size:672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect72173-0);stroke-width:0.96;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-size:672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect72173-0);display:inline;stroke-width:0.96;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:label="r Match+preload text"><tspan
          x="17672.252"
          y="10276.903"
-         id="tspan478"><tspan
+         id="tspan5415"><tspan
            dx="0 0 0 0 0.00012207031 0 -0.00012207031 0.00012207031 -0.00018310547 0.00018310547 -0.00018310547 0.00018310547 -0.00018310547 -0.00012207031 0.00042724609 -0.00012207031 -0.00012207031 -0.00012207031 0.00012207031"
            style="fill:#ca0000"
-           id="tspan476">7 Match + 4 Preload</tspan></tspan></text>
+           id="tspan5413">7 Match + 4 Preload</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:101.6px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -779,6 +779,22 @@
              y="2713.187">Designed by 76513B, Thunderous</tspan></text>
       </g>
     </g>
+    <circle
+       style="display:inline;fill:none;stroke:#ca0000;stroke-width:15.494;stroke-dasharray:none;stroke-opacity:1"
+       id="path314"
+       cx="3876.854"
+       cy="1070.2239"
+       r="199.771"
+       inkscape:label="red-high-goal"
+       transform="translate(3.7007542e-8)" />
+    <circle
+       style="display:inline;fill:none;stroke:#004488;stroke-width:15.494;stroke-dasharray:none;stroke-opacity:1"
+       id="path314-3"
+       cx="1135.4279"
+       cy="3792.4778"
+       r="199.771"
+       inkscape:label="blue-high-goal"
+       transform="translate(3.7007542e-8)" />
   </g>
   <g
      id="layer2"
